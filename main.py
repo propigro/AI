@@ -2,9 +2,9 @@ import pandas as pd
 
 # 1. DataFrame yaratish  
 data = {  
-    'Ism': ['Ali', 'Vali', 'Sardor'],  
-    'Yoshi': [25, 30, 22],  
-    'Shahar': ['Toshkent', 'Samarqand', 'Buxoro']  
+    'Ism': ['Ali', 'Vali', 'Sardor', 'Hasan'],  
+    'Yoshi': [25, 30, 22, 28],  
+    'Shahar': ['Toshkent', 'Samarqand', 'Buxoro', 'Qashqadaryo']  
 }  
 df = pd.DataFrame(data)  
 
