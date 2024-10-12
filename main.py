@@ -1,6 +1,6 @@
 import pandas as pd   # type: ignore
 
-# 1. DataFrame yaratish  
+# 1. DataFrame yaratish  test xabar bu
 data = {  
     'Ism': ['Ali', 'Vali', 'Sardor', 'Hasan', 'Javohir'],  
     'Yosh': [20, 25, 30, 35, 40],  
