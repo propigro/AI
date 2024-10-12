@@ -1,10 +1,10 @@
-import pandas as pd  
+import pandas as pd   # type: ignore
 
 # 1. DataFrame yaratish  
 data = {  
-    'Ism': ['Ali', 'Vali', 'Sardor', 'Hasan'],  
-    'Yoshi': [25, 30, 22, 28],  
-    'Shahar': ['Toshkent', 'Samarqand', 'Buxoro', 'Qashqadaryo']  
+    'Ism': ['Ali', 'Vali', 'Sardor', 'Hasan', 'Javohir'],  
+    'Yosh': [20, 25, 30, 35, 40],  
+    'Shahar': ['Toshkent', 'Samarqand', 'Buxoro', 'Qashqadaryo', 'Navoi']  
 }  
 df = pd.DataFrame(data)  
 
