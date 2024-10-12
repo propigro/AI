@@ -1,1 +1,1 @@
-print("Durbek")
+print("DurbekX")
